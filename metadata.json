@@ -1,0 +1,6 @@
+{
+  "name": "이야기상점 (Story Shop)",
+  "description": "경계에 사는 것들, 날개 달린 것들, 뿌리와 가시, 숲의 형상 — 자연과 사유의 조각들을 모은 문학 아카이브 블로그",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
